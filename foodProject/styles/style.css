@@ -1,0 +1,92 @@
+.head{
+background-color: black;
+color: white;
+padding: 5px;
+text-align: center;
+
+}
+
+li{
+    display: inline-block;
+    color: gray;
+    cursor: pointer;
+}
+
+li:hover{
+    color: white;
+}
+
+
+
+.foods{
+    margin: 20px;
+    
+   text-align: center;
+}
+
+
+
+.img1{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+
+}
+
+.img2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}
+
+.img3{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}
+
+.img4{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}
+
+
+
+button{
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+}
+
+
+
+.contact{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    margin: 20px;
+  
+    
+    }
+
+.to{
+        background-color: yellow;
+        color: black;
+        width: 20%;
+    }
+
+
